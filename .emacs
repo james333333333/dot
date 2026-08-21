@@ -14,8 +14,6 @@
       create-lockfiles nil)
 
 (setq-default indent-tabs-mode nil
-              show-trailing-whitespace t
-              indicate-empty-lines t
               dired-dwim-target t
               fill-column 79)
 
